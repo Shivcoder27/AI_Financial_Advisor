@@ -7,12 +7,17 @@ The **AI Financial Advisor** is a machine learning-based application designed to
 ### Key Features:
 - **Budget Analysis**: Helps users track their income and expenses, and provides suggestions for savings and investment opportunities.
   ![Budget Analysis](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic_1.png?raw=true)
+  
 - **Stock Insights**: Provides real-time stock data, and shows historical trends for selected stocks.
-   ![Stock Insights](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic_4.png?raw=true)
+  ![AI Investment Recommendations](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic2.png?raw=true)
+  
 - **Financial News & Sentiment Analysis**: Fetches the latest financial news and provides sentiment analysis.
-   ![Financial News & Sentiment](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic_3.png?raw=true)
+  ![Financial News & Sentiment](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic_3.png?raw=true)
+  
 - **AI Investment Recommendations**: Suggests investment strategies based on user input.
-   ![AI Investment Recommendations](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic2.png?raw=true)
+  ![Stock Insights](https://github.com/Shivcoder27/AI_Financial_Advisor/blob/main/pic_4.png?raw=true)
+  
+   
 
 ## Project Structure
 
